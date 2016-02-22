@@ -10,25 +10,35 @@ based on the requirements in the Deliverables section below.
 
 Fine-grained, atomic commits to your Production Problems repository that include:
 
-1) screenshots of your web-based palette for the four palettes below;
-2) an explanation, after each palette request below, why you chose the colors you did
+1) Screenshots of your web-based palette for the four palettes below;
+2) An explanation, after each palette request below, why you chose the colors you did
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
-
-Filename:
+Filename: Q1.jpg
 Explanation of your color choices:
+	When I think of high end gaming laptops I think of Alien ware (at least before Dell).
+The color scheme use was always a bright set of one color against a black background.
+I choose a set of bright and dark blues to be used against its one black backdrop
 
 * A shaded color palette for a website that sells natural and organic foods.
-
-Filename:
+Filename: Q2.jpg
 Explanation of your color choices:
+	When many people think of healthy items that you would feed your family. 
+They think of items that are the color green. Too bright of a green can still be very distracting. 
+So I chose a set of greens that are a bit softer in color. 
+However, I would still only use this color scheme sparingly with the color white.
 
 * A complementary palette for a banking website.
-
-Filename:
-Explanation of your color choices:
+Filename: Q3.jpg
+Explanation of your color choices: 
+	Money makes people nervous so I decided to use colors that calm people down. 
+The purple reminds me of lavender which is both a calming scent and color. 
+While the gray reminds me walking outside while it is raining, it might be a bit depressing, but it is definitely calming.
+ 
 
 * A triadic palette for a website that offers games for children.
-
-Filename:
+Filename: Q4.jpg
 Explanation of your color choices:
+	I tried to choose colors that were bright, happy, and playful. They are also simple examples of primary colors. 
+With children you don't need to worry about clashing, you should worry more about attracting attention.
+At the very least these colors will do just that, hopefully, in the least annoying way possible.
