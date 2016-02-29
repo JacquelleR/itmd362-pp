@@ -11,7 +11,7 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 ## Resources
 
-* Apple iOS HCI Guidlines:
+* Apple iOS HCI Guidelines:
   https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 * Android Design Guidelines:
   http://developer.android.com/design/index.html
@@ -22,15 +22,22 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 Fine-grained, atomic commits to your Production Problems repository that include:
 
-1) photographs of sketches of your new design, from your sketchbook
-2) an explanation of three different points of guidance from your chosen guidelines (point to the
+1) Photographs of sketches of your new design, from your sketchbook
+2) An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guideline One (URL): 
+https://msdn.microsoft.com/en-us/library/windows/desktop/dn742462(v=vs.85).aspx#powerful_and_simple
+
 * How you implemented it in your sketch:
 
-* HCI Guidline Two (URL):
+       I took a lot away from the original website and focused on the reasons people visit the portal in the first place. Also people don’t scroll on the website so a simply design would make it more likely for people to use the website in the first place.
+
+* HCI Guideline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742462(v=vs.85).aspx#what_makes_a_user_experience_simple_
+* How you implemented it in your sketch:
+	I made sure that there to more interconnect ivy to on the version of portal then the current. I also feel like portal is a lonely island that does connect to anyway else. This Guideline talks about how you should choose the right type of features and I tried to choose features that connected too what IIT does.
+
+* HCI Guideline Three (URL): https://www.google.com/design/spec/usability/accessibility.html
 * How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+	I wanted to make a page that would scroll and I wanted to also make a page that is finger friendly. Most IIT student enter portal with their phones or with their tablet it is important to make the login box big and directly in your face. And to make sure that the features are big enough to tap with a finger without much resizing or difficulty.
